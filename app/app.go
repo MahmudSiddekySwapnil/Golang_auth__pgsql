@@ -8,7 +8,7 @@ import (
 	"auth-app/services"
 
 	"github.com/gin-gonic/gin"
-	swapnil Mahmud
+	Mahmud Siddeky Swapnil
 )
 
 func InitializeApp() *gin.Engine {
